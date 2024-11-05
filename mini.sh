@@ -6,7 +6,8 @@
 
 DIR_TO_SCAN=${1:-.}
 
-
+#dsbchlbsjc
+#hs jcdalxjskchl
 
 # Temporary file to store checksums
 
