@@ -79,3 +79,5 @@ fi
 
 rm "$CHECKSUM_FILE" duplicates.txt
 
+
+
